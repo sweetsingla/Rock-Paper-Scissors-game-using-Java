@@ -6,8 +6,8 @@
 package rockpaperscissorsgame;
 
 /**
- *
- * @author sweet
+ * This program is to play rock paper scissors game with computer.
+ * @author sweet singla
  */
 import java.util.Scanner;
 
